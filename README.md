@@ -2,4 +2,4 @@
 
 # eSync Network Documentation
 
-This repository contains the **eSync Network documentation**. 
+This repository contains the **eSync Network documentation**.  
