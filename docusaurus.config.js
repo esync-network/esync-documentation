@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'eSync Network', // Usually your GitHub org/user name.
-  projectName: 'eSync Network', // Usually your repo name.
+  organizationName: 'eSsnc-Network', // Usually your GitHub org/user name.
+  projectName: 'esync-documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
