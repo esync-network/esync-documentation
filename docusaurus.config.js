@@ -74,10 +74,19 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'introductionSidebar',
             position: 'left',
-            label: 'Docs V1',
+            label: 'Whitepaper',
+            to: '/docs/whitepaper/'
+          },
+          {
+            position: 'left',
+            label: 'Developer Docs',
+            to: '/docs/developer-docs/'
+          },
+          {
+            position: 'left',
+            label: 'Tools',
+            to: '/docs/tools/'
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -98,8 +107,8 @@ const config = {
             title: 'Jump to',
             items: [
               {
-                label: 'Docs V1',
-                to: '/docs/category/introduction',
+                label: 'Whitepaper',
+                to: '/docs/whitepaper',
               },
             ],
           },
@@ -117,10 +126,6 @@ const config = {
               {
                 label: 'Medium',
                 href: 'https://esync.medium.com/',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.com/invite/Gn7Nw7KRVb',
               },
               {
                 label: 'Telegram',

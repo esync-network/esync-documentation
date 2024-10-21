@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Consensus
+
 In its initial stages, the eSync Network adopted the Proof-of-Authority (PoA) consensus mechanism, leveraging its inherent advantages. This strategic choice allows the network to initiate with fewer nodes, minimizing susceptibility to malicious actors. The decision aligns with the core objective of rapidly decentralizing the eSync Network, mitigating single-point-of-failure risks, and solidifying trust in the ecosystem.
 
 Prior to the eSync Network's launch with PoA, a planned transition to Proof-of-Stake (PoS) was envisioned, contingent on the live implementation and thorough testing of Ethereum 2.0. Alongside the evolution from the "eCredits Blockchain" to the "eSync Network," the eSync Network plans to shift to PoS consensus algorithm to further strengthened the eSync Network's autonomy since, unlike other alternatives, PoS works with Ethereum – which is what the eSync Network is built upon – offering more decentralization scalability than ever before.
