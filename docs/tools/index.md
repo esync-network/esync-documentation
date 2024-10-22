@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Tools Overview
@@ -21,9 +21,8 @@ The following section contains a list of tools available for the eSync Network e
 ## Web Applications
 
 - [eCredits Web Portal](https://portal.ecredits.com/)
-- [eCredits Cashier App](https://cashier.ecredits.com/)
-- [eCredits Gnosis Multisig Wallet](https://multisig.ecredits.com)
-- [eCredits Testnet Faucet](https://faucet.tst.ecredits.com/)
+- [eSync Gnosis Multisig Wallet](https://multisig.ecredits.com)
+- [eSync Testnet Faucet](https://faucet.tst.ecredits.com/)
 
 ## Other useful links
 

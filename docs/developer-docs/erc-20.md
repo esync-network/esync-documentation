@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Create an ERC-20 Token
 
 In this guide, we'll demonstrate how to create a custom ERC-20 token on the eSync Network using the Hardhat development environment. Hardhat is a popular development tool for building smart contracts on the Ethereum network.
@@ -104,7 +108,7 @@ Compile the contract using Hardhat:
 npx hardhat compile
 ```
 
-## Step 4: Deploy the ERC-20 token to the eCredits Testnet
+## Step 4: Deploy the ERC-20 token to the eSync testnet
 
 Create a new directory called `scripts` and a new file inside it called `deploy.js`:
 
@@ -134,14 +138,14 @@ main()
   });
 ```
 
-Now, make sure that your account specified in `hardhat.config.js` has some eCredits to pay the gas fees for the deployment and deploy the contract to the eCredits Testnet:
+Now, make sure that your account specified in `hardhat.config.js` has some ECS to pay the gas fees for the deployment and deploy the contract to the eSync testnet:
 
 ```sh
 npx hardhat run --network ecredits_test scripts/deploy.js
 ```
 
 If the deployment is successful, the console will display a message with the contract address. Save this address as you will need it to interact with your ERC-20 token.  
-Once the deployment is done, you will see a "Token Minting" transaction at the [eCredits Testnet Block Explorer](https://explorer.tst.esync.network/).
+Once the deployment is done, you will see a "Token Minting" transaction at the [eSync Testnet Block Explorer](https://explorer.tst.esync.network/).
 
 ## Step 5: Interact with your ERC-20 token
 

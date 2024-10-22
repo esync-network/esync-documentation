@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Developer Docs
@@ -171,7 +171,7 @@ Successfully generated 6 typings!
 Compiled 1 Solidity file successfully
 ```
 
-### Deploy the Smart Contract to the eCredits Testnet
+### Deploy the Smart Contract to the eSync Testnet
 
 With the `--network` you can contrl to which blockchain you deploy.
 

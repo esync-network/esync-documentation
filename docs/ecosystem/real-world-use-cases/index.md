@@ -6,15 +6,7 @@ sidebar_position: 4
 
 ## eCredits
 
-eCredits is a brand that encapsulates a dynamic ecosystem, serving as both a cryptocurrency and the collective sum of applications within its expansive network. This includes key features like the eCredits Wallet App, the native cryptocurrency – eCredits (ECS), and the native reward token – eActivity (ACT), along with additional software and services from third-party contributors.
-
-Built upon our eSync Network blockchain, the eCredits Ecosystem thrives on openness and decentralization. The eSync Network brings unique features to the forefront, including the native cryptocurrency (referred to as "ECS"), accessible to individuals worldwide without constraints.
-
-The eCredits Wallet App is a non-custodial wallet that facilitates quick access to ECS and other cryptocurrencies. Core features include non-custodial storage, HD wallet functionality, eSync Network interaction, a map of ECS-accepting businesses, fast transactions, an ACT reward system, third-party cashback, and integration with various services.
-
-Other eSync Network-powered eCredits applications include (1) the eCredits Web Portal, a web application, allowing Merchants, Members and Consumers to access a variety of user-centric features; (2) eCredits-custom public API that allows online stores to easily integrate ECS into their system; (3) a Web Widget, so that ECS can seamlessly be integrated into popular e-commerce applications such as Adobe Commerce, PrestaShop and WooCommerce.
-
-Explore more: https://ecredits.com/
+//TODO: something short about eCredits
 
 ## Rocksolid Estate AG
 

@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # eCredits Widget API
 
 ## Introduction
@@ -102,15 +106,15 @@ In order to create a transaction request whose QR code can be shown to the custo
 
 **REQUEST DATA:**
 
-| Parameter        | Type      | Mandatory          | Description                                                                                                                                                                                                            |
-| ---------------- | --------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| id               | guid      | yes                | Unique identifier of the request                                                                                                                                                                                       |
-| amountDue        | decimal   | yes                | The requested amount the shop wants to receive from the Consumer                                                                                                                                                       |
-| currencyCode     | string(3) | yes                | The code of the amountDue currency. Currently only ECS and EUR are supported. If set to EUR the conversion to ECS is done automatically                                                                                |
-| paymentReference | string    | no                 | The Merchant's reference to correlate the request and the paid transaction to the shop order item                                                                                                                      |
-| generateQrCode   | boolean   | no (default false) | Defines whether a base64 encoded QR string should be returned that can be directly embedded into the checkout page                                                                                                     |
-| qrCodeType       | string    | no                 | "Basic" or "HtmlEmbedded". Default is "Basic". "HtmlEmbedded" returns the QR code rendered in a HTML element with additional styles and contextual text                                                                |
-| testMode         | boolean   | no (default false) | Indicates whether the request is supposed to be paid on the eCredits pub testnet. NOTE: in test mode no real funds are transferred and you must have a wallet on the eCredits public testnet to pay for such requests! |
+| Parameter        | Type      | Mandatory          | Description                                                                                                                                                                                           |
+| ---------------- | --------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| id               | guid      | yes                | Unique identifier of the request                                                                                                                                                                      |
+| amountDue        | decimal   | yes                | The requested amount the shop wants to receive from the Consumer                                                                                                                                      |
+| currencyCode     | string(3) | yes                | The code of the amountDue currency. Currently only ECS and EUR are supported. If set to EUR the conversion to ECS is done automatically                                                               |
+| paymentReference | string    | no                 | The Merchant's reference to correlate the request and the paid transaction to the shop order item                                                                                                     |
+| generateQrCode   | boolean   | no (default false) | Defines whether a base64 encoded QR string should be returned that can be directly embedded into the checkout page                                                                                    |
+| qrCodeType       | string    | no                 | "Basic" or "HtmlEmbedded". Default is "Basic". "HtmlEmbedded" returns the QR code rendered in a HTML element with additional styles and contextual text                                               |
+| testMode         | boolean   | no (default false) | Indicates whether the request is supposed to be paid on the eSync testnet. NOTE: in test mode no real funds are transferred and you must have a wallet on the eSync testnet to pay for such requests! |
 
 #### Create Transaction Request - Response
 
@@ -237,11 +241,11 @@ Upon successful settlement of a request there will be a webhook request sent to 
 
 **REQUEST DATA:**
 
-| Parameter | Type    | Description                                                                                                      |
-| --------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
-| requestId | guid    | The id of the transaction request                                                                                |
-| status    | int     | The status code of the transaction request. Possible values are: Pending (0), Settled (1), Expired(2)            |
-| testMode  | boolean | Whether the request was created and paid on the eCredits public testnet. If true no real funds were transferred. |
+| Parameter | Type    | Description                                                                                            |
+| --------- | ------- | ------------------------------------------------------------------------------------------------------ |
+| requestId | guid    | The id of the transaction request                                                                      |
+| status    | int     | The status code of the transaction request. Possible values are: Pending (0), Settled (1), Expired(2)  |
+| testMode  | boolean | Whether the request was created and paid on the eSync testnet. If true no real funds were transferred. |
 
 The possible status codes of a request are listed below:
 

@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en','fr','de','it'],
+    locales: ['en'],
   },
 
   presets: [
@@ -41,10 +41,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/esync-network',
         },
         blog: {
           showReadingTime: true,
@@ -80,13 +76,23 @@ const config = {
           },
           {
             position: 'left',
-            label: 'Developer Docs',
-            to: '/docs/developer-docs/'
+            label: 'Ecosystem',
+            to: '/docs/ecosystem/'
           },
           {
             position: 'left',
             label: 'Tools',
             to: '/docs/tools/'
+          },
+          {
+            position: 'left',
+            label: 'Developer Docs',
+            to: '/docs/developer-docs/'
+          },
+          {
+            position: 'left',
+            label: 'Validators',
+            to: '/docs/validators/'
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -107,8 +113,12 @@ const config = {
             title: 'Jump to',
             items: [
               {
-                label: 'Whitepaper',
-                to: '/docs/whitepaper',
+                label: 'eCredits',
+                to: '/docs/ecosystem/real-world-use-cases/ecredits',
+              },
+              {
+                label: 'Metamask',
+                to: '/docs/tools/metamask',
               },
             ],
           },
