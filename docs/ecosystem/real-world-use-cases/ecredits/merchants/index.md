@@ -66,7 +66,7 @@ Included in the Premium Business Subscription is the following:
 
 For more on the registration and setup process, refer to this [video tutorial](https://dl.ecredits.com/videos/eCredits_Merchant_Registration_v3.mp4)
 
-### Step 3: Exchange Authentication
+### Step 3: Exchange Authentication (optional)
 
 Next, connect your eCredits account to your Blocktrade account. Blocktrade is a third-party exchange provider that provides several features, such as Instant Trade, in the eWallet App.
 

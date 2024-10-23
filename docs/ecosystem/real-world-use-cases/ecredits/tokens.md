@@ -20,16 +20,4 @@ eCredits (**ECS**) is the native coin of the eSync Network Blockchain, which is 
 </tbody>
 </table>
 
-## eCredits (ECS) Price
-
-- [CoinMarketCap](https://coinmarketcap.com/currencies/ecredits/)
-
-## Buy eCredits (ECS)
-
-Gateways and exchanges allow users to buy eCredits (ECS) using fiat or other crypto. You can buy ECS via:
-
-- [Blocktrade](https://blocktrade.com)
-- [Bitrue](https://bitrue.com)
-- [Bit2Me](https://bit2me.com/)
-
 A list of all exchanges and their functionality can be found under [Exchanges](/docs/ecosystem/real-world-use-cases/ecredits/exchanges.md)

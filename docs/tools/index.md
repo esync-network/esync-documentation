@@ -27,7 +27,6 @@ The following section contains a list of tools available for the eSync Network e
 ## Other useful links
 
 - [eSync Network Website](https://esync.network/)
-- [eCredits Documentation](https://docs.esync.network)
 - [eCredits Support Portal](https://support.ecredits.com/)
 - [The People's SCE](https://thesce.org/)
 - [eSync Network GitHub](https://github.com/esync-network)

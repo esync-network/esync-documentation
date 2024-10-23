@@ -21,16 +21,7 @@ The Seed Phrase is a 12-word security key in a specific order for the eWallet Ap
 
 :::
 
-### Step 2: Register on Blocktrade
-
-To use some of the eCredits Wallet App features (e.g., Quick Trade) provided by Blocktrade, you'll need to connect your Blocktrade account to your eCredits Wallet App.
-
-- Go to "Assets" and tap "Exchange."
-- Select "Connect Account."
-- If you don't have a Blocktrade account, you can create one by registering on their website and completing the necessary details and user identification (KYC/KYB) process.
-- Once registered, connect your account address in the eWallet App and accept the legal disclaimer.
-
-### Step 3: Get eCredits (ECS)
+### Step 2: Get eCredits (ECS)
 
 There are three ways to acquire eCredits in your eCredits Wallet App:
 
@@ -38,7 +29,7 @@ There are three ways to acquire eCredits in your eCredits Wallet App:
 - Use a public address: In the "eCredits Wallet" tab, click on the blue card or the "My Address" button to get your personal wallet address. Copy this address and use it as your public address to receive eCredits from any other source.
 - Buy with credit/debit card or SEPA transaction: Go to the "Buy" tab of your eCredits Wallet App, choose your preferred provider and follow the instructions provided in the pop-up tabs.
 
-### Step 4: Purchasing with eCredits
+### Step 3: Purchasing with eCredits
 
 To get started, use the map in the eCredits Wallet App to locate eCredits Merchants. If you want to shop online, search for websites that accept ECS.
 To purchase with ECS, simply scan the Merchant-generated QR code using the eCredits button in the eCredits Wallet App.
@@ -53,15 +44,3 @@ On the "Invite a friend" screen, you have two options:
 - Enter the email address of the person you want to invite and click "Continue." An email invitation will be automatically sent to them.
 - Generate a personal invitation link by tapping the “Create link” button at the bottom of the screen. Tap the generated link and share it through email, Messenger, WhatsApp, or any other supported channel.
   You will receive an eActivity Invite Bonus of 100 ACT in your eWallet once your friend accepts the invitation, downloads the eCredits Wallet App, and makes their first purchase on eCredits.
-
-## Quick Trade
-
-Quick Trade enables users to accept cryptocurrencies and convert them into fiats or other cryptocurrencies directly in the eCredits Wallet App. To use it, you must first connect to your third-party exchange account.
-In the “Overview” section, you can choose the desired asset pairs. Currently you can use the trading pairs ECS/EUR, BTC/ECS and ECS/USDC.
-To checkout with Quick Trade, just:
-
-- Click on “Place Order”
-- Enter the amount you want to exchange
-- Click “Quick Trade” to exchange your assets automatically
-- Once the order has been created, you will receive a notification
-- You can see the updates with the real-time exchange rate

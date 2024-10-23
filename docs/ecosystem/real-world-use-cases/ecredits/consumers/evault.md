@@ -16,18 +16,10 @@ eVault functionalities enable you to:
 - Track rewards in real time
 - Claim rewards in real time
 
-eVault Rewards
+## eVault Rewards
 
 eVault Rewards vary depending on your eCredits Subscription plan:
 
 - Free Subscription: 2%
 - Gold Subscription: 3%
 - Platinum Subscription: 6%
-
-## How to eVault?
-
-- Go to "Assets" tab
-- Click the "eVault" icon
-- Add your ECS to the eVault by selecting the desired amount (up to a maximum of 3.75 million ECS)
-
-Find out more in the “eVault Terms” document [here](https://dl.ecredits.com/legal/eVault_terms.pdf).

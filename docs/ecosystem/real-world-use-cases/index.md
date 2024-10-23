@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ## eCredits
 
-//TODO: something short about eCredits
+eCredits is a brand that encapsulates a dynamic ecosystem, serving as both a cryptocurrency and the collective sum of applications within its expansive network. This includes key features like the eCredits Wallet App, the native cryptocurrency – eCredits (ECS), and the native reward token – eActivity (ACT), along with additional software and services from third-party contributors.
 
 ## Rocksolid Estate AG
 

@@ -24,13 +24,11 @@ Explore more: https://ecredits.com/
 <tr><td>eCredits Wallet App for smartphones</td><td><a href="https://link.ecredits.com/app/install">https://link.ecredits.com/app/install</a></td></tr>
 <tr><td>eCredits Web Portal</td><td><a href="https://portal.ecredits.com/">https://portal.ecredits.com/</a></td></tr>
 <tr><td>eCredits Support Portal</td><td><a href="https://support.ecredits.com/">https://support.ecredits.com/</a></td></tr>
-<tr><td>eCredits Documentation</td><td><a href="https://docs.ecredits.com">https://docs.ecredits.com</a></td></tr>
 <tr><td>eCredits Link Tree</td><td><a href="https://linktr.ee/ecredits">https://linktr.ee/ecredits</a></td></tr>
-<tr><td>eCredits GitHub</td><td><a href="https://github.com/esync-network">https://github.com/esync-network</a></td></tr>
-<tr><td>eCredits Docker Hub</td><td><a href="https://hub.docker.com/u/ecredits">https://hub.docker.com/u/ecredits</a></td></tr>
-<tr><td>eCredits Gnosis Multisig Wallet</td><td><a href="https://multisig.ecredits.com">https://multisig.ecredits.com</a></td></tr>
+<tr><td>eSync Network GitHub</td><td><a href="https://github.com/esync-network">https://github.com/esync-network</a></td></tr>
+<tr><td>eSync Docker Hub</td><td><a href="https://hub.docker.com/u/ecredits">https://hub.docker.com/u/ecredits</a></td></tr>
+<tr><td>eSync Gnosis Multisig Wallet</td><td><a href="https://multisig.ecredits.com">https://multisig.ecredits.com</a></td></tr>
 <tr><td>The People's SCE</td><td><a href="https://thesce.org/">https://thesce.org/</a></td></tr>
-<tr><td>The People’s SCE Affiliate Program</td><td><a href="https://ecredits.com/en/affiliate-program/">https://ecredits.com/en/affiliate-program/</a></td></tr>
 <tr><td>eSync Network Website</td><td><a href="https://esync.network/">https://esync.network/</a></td></tr>
 <tr><td>eSync Network Whitepaper</td><td><a href="https://esync.network/whitepaper/">https://esync.network/whitepaper/</a></td></tr>
 <tr><td>eSync Network Mainnet Block Explorer</td><td><a href="https://explorer.esync.network/">https://explorer.esync.network/</a></td></tr>
@@ -48,7 +46,6 @@ Explore more: https://ecredits.com/
 - [Blocksport](https://blockspot.io/coin/ecredits/)
 - [CoinMarketRate](https://coinmarketrate.com/currency/ecredits/)
 - [Crypto.com](https://crypto.com/price/ecredits)
-- [Gate.io](https://www.gate.io/how-to-buy/ecredits-ecs)
 
 ## eCredits Integrations
 
@@ -64,6 +61,7 @@ More information about the exchanges and the integration can be found at [Exchan
 - [Blocktrade](https://blocktrade.com)
 - [Bitrue](https://bitrue.com/)
 - [Bit2Me](https://bit2me.com/)
+- [Coinstore](https://www.coinstore.com/)
 
 ## eSync Network Listing
 
