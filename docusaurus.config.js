@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en','fr','de','it'],
+    locales: ['en'],
   },
 
   presets: [
@@ -41,10 +41,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/esync-network',
         },
         blog: {
           showReadingTime: true,
@@ -65,7 +61,7 @@ const config = {
 
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Home',
         logo: {
@@ -74,10 +70,29 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'introductionSidebar',
             position: 'left',
-            label: 'Docs V1',
+            label: 'Whitepaper',
+            to: '/docs/whitepaper/'
+          },
+          {
+            position: 'left',
+            label: 'Ecosystem',
+            to: '/docs/ecosystem/'
+          },
+          {
+            position: 'left',
+            label: 'Tools',
+            to: '/docs/tools/'
+          },
+          {
+            position: 'left',
+            label: 'Developer Docs',
+            to: '/docs/developer-docs/'
+          },
+          {
+            position: 'left',
+            label: 'Validators',
+            to: '/docs/validators/'
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -98,8 +113,12 @@ const config = {
             title: 'Jump to',
             items: [
               {
-                label: 'Docs V1',
-                to: '/docs/category/introduction',
+                label: 'eCredits',
+                to: '/docs/ecosystem/real-world-use-cases/ecredits',
+              },
+              {
+                label: 'Metamask',
+                to: '/docs/tools/metamask',
               },
             ],
           },
@@ -117,10 +136,6 @@ const config = {
               {
                 label: 'Medium',
                 href: 'https://esync.medium.com/',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.com/invite/Gn7Nw7KRVb',
               },
               {
                 label: 'Telegram',

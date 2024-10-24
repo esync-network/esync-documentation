@@ -28,3 +28,13 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+main button {
+  background-color: #994ED7;
+  border-color: transparent;
+  color: #fff;
+  min-width: 180px;
+  padding: 5px 10px;
+  border-radius: 25px;
+  cursor: pointer;
+}
